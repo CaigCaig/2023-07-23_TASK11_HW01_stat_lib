@@ -1,0 +1,11 @@
+#pragma once
+#include <string>
+
+using namespace std;
+
+class Greeter
+{
+public:
+	string greet(string str);
+};
+
